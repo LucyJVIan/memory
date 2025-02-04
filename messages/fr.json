@@ -1,0 +1,122 @@
+{
+    "header": {
+        "about": "A propos de",
+        "howWorks": "Comment ça marche",
+        "roadmap": "Roadmap",
+        "contactUs": "Contact",
+        "howBuy": "Comment acheter"
+    },
+
+    "heroSection": {
+        "title": "Conservez vos souvenirs pour toujours",
+        "description": "MemoryToken offre un moyen révolutionnaire de stocker et de préserver les moments les plus précieux de la vie."
+    },
+
+    "input": {
+        "enterEmail": "Saisir l'email",
+        "enterName": "Entrez votre nom",
+        "textarea": "Tapez votre message"
+    },
+
+    "buttons": {
+        "subscribe": "S'abonner"
+    },
+
+    "mission": {
+        "precious": "Notre mission et nos valeurs",
+        "description": "Chez MemoryToken, nous croyons en la préservation sûre et innovante des souvenirs. Notre plateforme est conçue pour célébrer les moments de la vie.",
+        "innovation": "Approche innovante",
+        "innovationDescpription": "Nous nous efforçons d'offrir un moyen unique de conserver des souvenirs. Nos jetons numériques permettent aux utilisateurs de créer un répertoire personnel des moments qui leur sont chers et d'y avoir accès en permanence.",
+        "safety": "Engagement en matière de sécurité",
+        "safetyDescpription": "La sécurité est notre priorité absolue. Nous prenons des mesures de pointe pour protéger vos souvenirs et vous permettre de revivre vos expériences en toute tranquillité.",
+        "greeting": "Rencontrer notre équipe",
+        "greetingDescpription": "Notre équipe est passionnée par la préservation des souvenirs. Grâce à notre expertise en matière de technologie et de marketing, nous nous efforçons d'améliorer votre expérience et de veiller à ce que vos souvenirs soient préservés."
+    },
+
+    "about": {
+        "aboutProject": "A propos du projet",
+        "descr1": "Le projet Memory Token est une approche innovante de la préservation et du partage de souvenirs significatifs. Notre jeton de mémoire personnel unique offre aux utilisateurs un « coffre-fort » numérique pour enregistrer les moments les plus précieux de leur vie. Grâce à lui, vous pouvez préserver et transmettre vos histoires émotionnelles et personnelles à la génération suivante.",
+        "descr2": "Memory Token met l'accent sur les valeurs émotionnelles et l'histoire personnelle plutôt que sur les valeurs matérielles. Il crée un concept unique de mémoire numérique basé sur la blockchain, préservé à jamais."
+    },
+
+    "roadmap": {
+        "road": "Roadmap",
+        "q125": "Q1 2025",
+        "q425": "Q4 2025",
+        "q326": "Q3 2026",
+        "q127": "Q1 2027",
+        "startToken": "Lancement du token",
+        "become": "Début de la création de la place de marché des jetons de mémoire",
+        "startCapsule": "Lancement du site Création de capsules temporelles",
+        "vr": "Intégration VR/AR"
+    },
+    "principles": {
+        "operatingPrinciples": "Principes de travail",
+        "principle1Header": "Caractéristiques du concept",
+        "principle1": {
+            "timeCapsuleHeader": "- Capsules temporaires:",
+            "timeCapsule": "chaque jeton comprend des données multimédias - photos, vidéos, sons ou notes de texte - téléchargées par le détenteur.",
+            "immutabilityHeader": "- Immutabilité:",
+            "immutability": "le token capture l'instant de manière à ce qu'il reste inchangé, soulignant le caractère unique de chaque souvenir.",
+            "NFTHeader": "- Fonctionnalité NFT:",
+            "NFT": "la possibilité d'hériter de tokens ou de sauvegarder la mémoire pour d'autres.",
+            "VRHeader": "- Intégration VR/AR:",
+            "VR": "faire revivre des souvenirs dans la réalité virtuelle, permettant de les voir et de les ressentir à nouveau."
+        },
+        "principle2Header": "Possibilités d'utilisation",
+        "principle2": {
+            "personalHeader": "- Histoire personnelle:",
+            "personal": "notez et sauvegardez vos expériences afin de pouvoir revivre les moments importants à l'avenir.",
+            "familyHeader": "- Patrimoine familial:",
+            "family": "transmettez vos souvenirs à vos descendants en créant des archives et des traditions familiales.",
+            "friendsHeader": "- Amis et famille:",
+            "friends": "partagez des moments avec ceux qui vous sont chers, en préservant des souvenirs et des émotions chaleureuses pour les années à venir."
+        },
+        "principle3Header": "Aspects techniques",
+        "principle3": {
+            "safetyHeader": "- Sécurité des données:",
+            "safety": "la haute sécurité des données de la blockchain garantit la préservation et l'authenticité de vos souvenirs.",
+            "usageHeader": "- Facilité d'utilisation:",
+            "usage": "interface intuitive et outils faciles à utiliser pour télécharger et accéder à vos capsules temporelles.",
+            "flexibilityHeader": "- Flexibilité de la plateforme:",
+            "flexibility": "prise en charge de différents formats de médias et intégration avec les plateformes VR/AR pour une expérience totalement immersive."
+        }
+    },
+
+    "howWorks": {
+        "header": "Comment ça marche",
+        "description": "Quelques exemples avec descriptions",
+        "download": "Téléchargez des photos, des vidéos, des enregistrements audio ou des notes de texte. Tous les éléments qui constituent un souvenir mémorable",
+        "nft": "Une fois les données téléchargées et cryptées, un NFT unique est généré pour représenter cette mémoire. Le jeton fait référence aux fichiers multimédias, à leurs métadonnées et stocke toutes les données connexes (par exemple, le contexte émotionnel ou les informations sur l'événement).",
+        "vr": "Un événement dont on se souvient pourrait être « ramené à la vie » grâce aux technologies VR/AR. Par exemple, si une personne télécharge des vidéos et des photos de son voyage, la plateforme pourrait permettre à l'utilisateur, à l'aide d'un casque de RV ou de dispositifs de RA, de « s'immerger » dans ces moments de vie comme s'il revenait à cet endroit et à ce moment-là."
+    },
+
+    "faq": {
+        "header": "Questions fréquemment posées",
+        "description": "Trouvez les réponses à vos questions sur la façon dont MemoryToken vous aide à préserver en toute sécurité et sans effort vos souvenirs les plus chers.",
+        "whatIsThis": "Qu'est-ce qu'un token de mémoire ?",
+        "whatIsThisAnswer": "Qu'est-ce qu'un token de mémoire ?Qu'est-ce qu'un token de mémoire ?Qu'est-ce qu'un token de mémoire ?Qu'est-ce qu'un token de mémoire ?Qu'est-ce qu'un token de mémoire ?Qu'est-ce qu'un token de mémoire ?Qu'est-ce qu'un token de mémoire ?Qu'est-ce qu'un token de mémoire ?Qu'est-ce qu'un token de mémoire ?",
+        "howToCreate": "Comment créer un token de mémoire ?",
+        "howToCreateAnswer": "Comment créer un token de mémoire ?",
+        "security": "Mes données sont-elles protégées en toute sécurité ?",
+        "securityAnswer": "Mes données sont-elles protégées en toute sécurité ?Mes données sont-elles protégées en toute sécurité ?"
+    },
+
+    "howToBuy": {
+        "header": "Comment acheter",
+        "description": "Vous pouvez acheter un jeton de mémoire en cliquant sur le lien ci-dessous. Ensemble, nous préserverons des souvenirs personnels et précieux à travers les âges. Le projet de jeton de mémoire garantit non seulement la fiabilité et la durabilité de vos moments importants, mais il vous permet également de les transmettre à travers le temps, en créant des liens émotionnels entre les générations dans un format numérique unique.",
+        "where": "Où acheter:"
+    },
+
+    "bottomNav": {
+        "about": "A propos de",
+        "howWorks": "Comment ça marche",
+        "roadmap": "Roadmap"
+    },
+
+    "footer": {
+        "feedback": "Contact",
+        "conditions": "Terms & Conditions",
+        "whitePaper": "WhitePaper"
+    }
+}

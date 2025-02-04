@@ -1,0 +1,122 @@
+{
+    "header": {
+        "about": "關於",
+        "howWorks": "如何運作",
+        "roadmap": "道路地圖",
+        "contactUs": "聯絡人",
+        "howBuy": "如何購買"
+    },
+
+    "heroSection": {
+        "title": "永遠保存您的回憶",
+        "description": "MemoryToken 提供了一種革命性的方式來儲存和保存生命中最珍貴的時刻。"
+    },
+
+    "input": {
+        "enterEmail": "輸入電子郵件",
+        "enterName": "输入您的姓名",
+        "textarea": "输入您的信息"
+    },
+
+    "buttons": {
+        "subscribe": "訂閱"
+    },
+
+    "mission": {
+        "precious": "我們的使命和價值觀",
+        "description": "在 MemoryToken，我們相信安全和創新的保存回憶。我們的平台旨在慶祝生命中的美好時刻。",
+        "innovation": "創新方法",
+        "innovationDescpription": "我們致力於提供儲存回憶的獨特方式。我們的數位代幣可讓使用者建立珍貴時刻的個人儲存庫，提供隨時存取的功能。",
+        "safety": "安全承諾",
+        "safetyDescpription": "安全是我們的首要任務。我們採取最先進的措施來保護您的回憶，讓您安心重溫您的經歷。",
+        "greeting": "認識我們的團隊",
+        "greetingDescpription": "我們的團隊熱衷於保存回憶。憑藉在技術和行銷方面的專業知識，我們致力於提升您的體驗，並確保您的回憶得以保存。"
+    },
+
+    "about": {
+        "aboutProject": "關於本專案",
+        "descr1": "Memory Token 項目是保存和分享有意義的回憶的創新方法。我們獨一無二的個人 Memory Token 為使用者提供了一個數位「儲藏庫」，可記錄生活中最珍貴的時刻。有了它，您可以保存並將您的情感和個人故事傳給下一代。",
+        "descr2": "Memory Token 強調情感價值和個人歷史，而非物質價值。它創造了一個獨特的基於區塊鏈的數位記憶概念，永久保存。"
+    },
+    "roadmap": {
+        "road": "道路地圖",
+        "q125": "Q1 2025",
+        "q425": "Q4 2025",
+        "q326": "Q3 2026",
+        "q127": "Q1 2027",
+        "startToken": "代幣發行",
+        "become": "記憶體代幣 市場創建開始",
+        "startCapsule": "推出網站 創建時間囊",
+        "vr": "VR/AR 整合"
+    },
+
+    "principles": {
+        "operatingPrinciples": "工作原則",
+        "principle1Header": "構想的特色",
+        "principle1": {
+            "timeCapsuleHeader": "- 臨時膠囊",
+            "timeCapsule": "每個代用幣都包含多媒體資料 - 持有者上傳的照片、視訊、聲音或文字筆記。",
+            "immutabilityHeader": "- 不變性：",
+            "immutability": "代用幣可捕捉瞬間，使其保持不變，強調每個記憶的唯一性。",
+            "NFTHeader": "- NFT 功能：",
+            "NFT": "能夠繼承代用幣或為他人儲存記憶。",
+            "VRHeader": "- VR/AR 整合：",
+            "VR": "讓記憶在虛擬實境中活現，讓人可以再次看到和感受它們。"
+        },
+        "principle2Header": "使用可能性",
+        "principle2": {
+            "personalHeader": "- 個人歷史：",
+            "personal": "寫下並儲存您的經歷，以便將來可以重溫有意義的時刻。",
+            "familyHeader": "- 家族遺產：",
+            "family": "透過建立家庭檔案和傳統，將您的回憶傳給您的後代。",
+            "friendsHeader": "- 朋友和家人：",
+            "friends": "與您關心的人分享美好時刻，將溫暖的回憶與情感保存下來。"
+        },
+        "principle3Header": "技術層面",
+        "principle3": {
+            "safetyHeader": "- 資料安全性：",
+            "safety": "區塊鏈的高度資料安全性可確保您的記憶得以保存且真實無誤。",
+            "usageHeader": "- 易於使用：",
+            "usage": "直觀的介面和易用的工具，可讓您下載和存取時間膠囊。",
+            "flexibilityHeader": "- 平台彈性：",
+            "flexibility": "支援各種媒體格式，並與 VR/AR 平台整合，提供完全沉浸式的體驗。"
+        }
+    },
+
+    "howWorks": {
+        "header": "如何運作",
+        "description": "一些附有說明的範例",
+        "download": "上傳照片、影片、錄音或文字筆記。構成難忘回憶的所有元素",
+        "nft": "資料下載並經過加密後，就會產生出代表此記憶體的唯一 NFT。此記憶體將會參照媒體檔案、其元資料，並儲存所有支援資料 (例如情感情境或事件資訊)。",
+        "vr": "記憶中的事件可以透過 VR/AR 技術「活現」出來。舉例來說，如果某人上傳了旅行的影片和照片，平台可以讓使用者透過 VR 頭戴式裝置或 AR 裝置，「沉浸」在那些生活點滴中，彷彿回到那個地方和時間。"
+    },
+
+    "faq": {
+        "header": "常見問題",
+        "description": "尋找關於 MemoryToken 如何幫助您安全、輕鬆地保存珍貴回憶的問題答案。",
+        "whatIsThis": "什麼是記憶體代用幣？",
+        "whatIsThisAnswer": "什麼是記憶體代用幣？什麼是記憶體代用幣？ 什麼是記憶體代用幣？什麼是記憶體代用幣？什麼是記憶體代用幣？什麼是記憶體代用幣？什麼是記憶體代用幣？什麼是記憶體代用幣？什麼是記憶體代用幣？什麼是記憶體代用幣？",
+        "howToCreate": "如何建立記憶體令牌？",
+        "howToCreateAnswer": "如何建立記憶體令牌？",
+        "security": "我的資料是否受到安全保護？",
+        "securityAnswer": "我的資料是否受到安全保護？我的資料是否受到安全保護？我的資料是否受到安全保護？"
+    },
+
+    "howToBuy": {
+        "header": "如何購買",
+        "description": "您可以從以下連結購買記憶紀念幣。我們將攜手保存個人的珍貴回憶，讓它們歷久彌新。Memory Token 計畫不僅能確保您有意義的時刻的可靠性和耐久性，還能讓您將它們隨著時間傳承下去，以獨特的數位格式在幾代人之間建立情感聯繫。",
+        "where": "購買地點:"
+    },
+
+    "bottomNav": {
+        "about": "關於我們",
+        "howWorks": "如何運作",
+        "roadmap": "道路地圖"
+    },
+
+    "footer": {
+        "feedback": "聯絡我們",
+        "conditions": "Terms & Conditions",
+        "whitePaper": "WhitePaper"
+    }
+}

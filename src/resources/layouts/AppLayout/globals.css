@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Jura";
+}
+
+@layer base {
+    details summary {
+        @apply list-none;
+    }
+    details summary::-webkit-details-marker {
+        display: none;
+    }
+}
+
+
+:root {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    max-width: 1980px;
+    margin: 0 auto;
+    background-color: black;
+
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+@media (max-width: 900px) {
+    :root {
+        max-width: 100%;
+    }
+}
+
+@font-face {
+    font-family: "Jura";
+    src: local("Jura"), url("/fonts/Jura/Jura-Light.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Jura";
+    src: local("Jura"), url("/fonts/Jura/Jura-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Jura";
+    src: local("Jura"), url("/fonts/Jura/Jura-Medium.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Jura";
+    src: local("Jura"), url("/fonts/Jura/Jura-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Jura";
+    src: local("Jura"), url("/fonts/Jura/Jura-Bold.ttf") format("truetype");
+    font-weight: 700;
+}
+
+
+.app {
+    background-color: white;
+    position: relative;
+    max-width: 1600px;
+}
+
+.centerText {
+    height: 40vh;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    color: #19465e;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@media (max-width: 900px) {
+    .centerText {
+        height: 80vh;
+        font-size: 24px;
+    }
+    .app {
+        max-width: 740px;
+    }
+}
+@media (max-width: 769px) {
+    .app {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 500px) {
+    .centerText {
+        height: 80vh;
+        font-size: 16px;
+    }
+}
+
+body {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    background-color: white;
+}
+body::-webkit-scrollbar {
+    width: 0;
+    display: none;
+}
