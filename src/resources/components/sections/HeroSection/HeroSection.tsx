@@ -38,7 +38,7 @@ export const HeroSection = () => {
                             setIsVideoLoaded(true);
                         }}
                     >
-                        <source src="/assets/video/zastavka.mp4" type="video/mp4" />
+                        <source src="/assets/video/zastavka.webm" type="video/mp4" />
                         Ваш браузер не поддерживает видео.
                     </video>
                 </div>
